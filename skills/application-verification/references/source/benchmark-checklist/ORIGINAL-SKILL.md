@@ -1,0 +1,41 @@
+> Archived source reference, repackaged by Leotus-Richard on 2026-10-20. This is not an active skill or execution policy. Use the domain hub for current task scope and available capabilities; host commands, integrations, local-only rules, identity rules, and publishing steps below are historical examples. Modifications: discovery filename and local links normalized where needed, machine paths replaced where present; source substance retained.
+
+---
+name: benchmark-checklist
+description: "Check a measured local performance claim for real work, errors, tuning, variability and end-to-end relevance."
+metadata:
+  version: "1.0.0"
+  profile: "local-task-toolkit"
+  invocation: "task-specific"
+  integration-status: "portable-instructions-host-untested"
+---
+
+# Benchmark Checklist
+
+## Scope
+
+Read `references/local-execution-contract.md` at task start. This skill is task-specific and local-only. Do not activate remote integrations, persistent modes, hooks or unrelated implementation.
+
+## Workflow
+
+1. State the claim and inspect what the measurement script times and ignores.
+2. Observe the resource limiter in a separate profiling run; check production-equivalent settings and realistic inputs.
+3. Count errors and verify work actually ran inside the timed region.
+4. For comparisons, alternate sides across at least five runs per side and report spread and median; label a single requested ballpark as such.
+5. Check physical limits and end-to-end share. Report inconclusive if key evidence is absent.
+
+## Default output
+
+Verdict, units, run count/spread, limiter, errors and evidence limitations.
+
+## Failure boundary
+
+Report the missing input or capability; do not fabricate evidence or broaden the task.
+
+## Upstream resources
+
+The full original skill and its resources are preserved under `references/upstream/`. Read `references/upstream/ORIGINAL-SKILL.md` for detailed rubrics, templates and examples when its branch is relevant. Resolve its relative resource paths from that directory. Its tool names, model IDs, publication steps, transcript paths and persistent modes are source-specific examples, not permission to execute them. Follow this hub and the local execution contract when those instructions conflict.
+
+## Provenance
+
+Adapted from [pstack:benchmark-checklist](https://github.com/cursor/plugins/blob/1e5c90a4b6f249917bd21fe361b3a2a7deb741b8/pstack/skills/benchmark-checklist/SKILL.md). The original MIT notice is bundled. This is a local-only adaptation, not an endorsement or a claim of native host support.

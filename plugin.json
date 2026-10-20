@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "application-verification",
+  "version": "0.1.0",
+  "description": "Create and maintain application verification harnesses, exercise CLI/UI behavior, and assess performance evidence.",
+  "author": {
+    "name": "Leotus-Richard"
+  },
+  "repository": "https://github.com/Leotus-Richard/application-verification",
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Application Verification",
+        "shortDescription": "Create and maintain application verification harnesses, exercis",
+        "developerName": "Leotus-Richard",
+        "category": "Development"
+      }
+    }
+  }
+}
