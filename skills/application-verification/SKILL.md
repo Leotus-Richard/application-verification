@@ -19,7 +19,7 @@ Choose only the branch needed:
 
 - **Create a reusable harness:** document launch, health/doctor, drive, capture,
   and cleanup commands plus their dependencies. Map representative real features
-  to observable end states. The [feature-map example](references/source/create-verification-skill/references/upstream/references/feature-map-example/README.md)
+  to observable end states. The [feature-map example](references/r/017.md)
   is a structural example, not this project's configuration. Save a generated skill
   only when requested, with the host's valid discovery metadata and chosen location;
   creating it does not install it globally.

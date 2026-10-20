@@ -1,0 +1,140 @@
+{
+  "formatVersion": 1,
+  "resources": [
+    {
+      "sourcePath": "skills/create-verification-skill/LICENSE",
+      "previousPackagePath": "skills/application-verification/references/source/create-verification-skill/LICENSE",
+      "packagePath": "skills/application-verification/references/r/013.license"
+    },
+    {
+      "sourcePath": "skills/create-verification-skill/SKILL.md",
+      "previousPackagePath": "skills/application-verification/references/source/create-verification-skill/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/014.md"
+    },
+    {
+      "sourcePath": "skills/create-verification-skill/references/local-execution-contract.md",
+      "previousPackagePath": "skills/application-verification/references/source/create-verification-skill/references/local-execution-contract.md",
+      "packagePath": "skills/application-verification/references/r/015.md"
+    },
+    {
+      "sourcePath": "skills/create-verification-skill/references/upstream/ORIGINAL-SKILL.md",
+      "previousPackagePath": "skills/application-verification/references/source/create-verification-skill/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/016.md"
+    },
+    {
+      "sourcePath": "skills/create-verification-skill/references/upstream/references/feature-map-example/create-note.md",
+      "previousPackagePath": "skills/application-verification/references/source/create-verification-skill/references/upstream/references/feature-map-example/create-note.md",
+      "packagePath": "skills/application-verification/references/r/018.md"
+    },
+    {
+      "sourcePath": "skills/create-verification-skill/references/upstream/references/feature-map-example/README.md",
+      "previousPackagePath": "skills/application-verification/references/source/create-verification-skill/references/upstream/references/feature-map-example/README.md",
+      "packagePath": "skills/application-verification/references/r/017.md"
+    },
+    {
+      "sourcePath": "skills/create-verification-skill/references/upstream/references/feature-map-example/search.md",
+      "previousPackagePath": "skills/application-verification/references/source/create-verification-skill/references/upstream/references/feature-map-example/search.md",
+      "packagePath": "skills/application-verification/references/r/019.md"
+    },
+    {
+      "sourcePath": "skills/maintain-verification-skill/LICENSE",
+      "previousPackagePath": "skills/application-verification/references/source/maintain-verification-skill/LICENSE",
+      "packagePath": "skills/application-verification/references/r/020.license"
+    },
+    {
+      "sourcePath": "skills/maintain-verification-skill/SKILL.md",
+      "previousPackagePath": "skills/application-verification/references/source/maintain-verification-skill/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/021.md"
+    },
+    {
+      "sourcePath": "skills/maintain-verification-skill/references/local-execution-contract.md",
+      "previousPackagePath": "skills/application-verification/references/source/maintain-verification-skill/references/local-execution-contract.md",
+      "packagePath": "skills/application-verification/references/r/022.md"
+    },
+    {
+      "sourcePath": "skills/maintain-verification-skill/references/upstream/ORIGINAL-SKILL.md",
+      "previousPackagePath": "skills/application-verification/references/source/maintain-verification-skill/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/023.md"
+    },
+    {
+      "sourcePath": "skills/control-ui/LICENSE",
+      "previousPackagePath": "skills/application-verification/references/source/control-ui/LICENSE",
+      "packagePath": "skills/application-verification/references/r/009.license"
+    },
+    {
+      "sourcePath": "skills/control-ui/SKILL.md",
+      "previousPackagePath": "skills/application-verification/references/source/control-ui/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/010.md"
+    },
+    {
+      "sourcePath": "skills/control-ui/references/local-execution-contract.md",
+      "previousPackagePath": "skills/application-verification/references/source/control-ui/references/local-execution-contract.md",
+      "packagePath": "skills/application-verification/references/r/011.md"
+    },
+    {
+      "sourcePath": "skills/control-ui/references/upstream/ORIGINAL-SKILL.md",
+      "previousPackagePath": "skills/application-verification/references/source/control-ui/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/012.md"
+    },
+    {
+      "sourcePath": "skills/control-cli/LICENSE",
+      "previousPackagePath": "skills/application-verification/references/source/control-cli/LICENSE",
+      "packagePath": "skills/application-verification/references/r/005.license"
+    },
+    {
+      "sourcePath": "skills/control-cli/SKILL.md",
+      "previousPackagePath": "skills/application-verification/references/source/control-cli/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/006.md"
+    },
+    {
+      "sourcePath": "skills/control-cli/references/local-execution-contract.md",
+      "previousPackagePath": "skills/application-verification/references/source/control-cli/references/local-execution-contract.md",
+      "packagePath": "skills/application-verification/references/r/007.md"
+    },
+    {
+      "sourcePath": "skills/control-cli/references/upstream/ORIGINAL-SKILL.md",
+      "previousPackagePath": "skills/application-verification/references/source/control-cli/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/008.md"
+    },
+    {
+      "sourcePath": "skills/benchmark-checklist/LICENSE",
+      "previousPackagePath": "skills/application-verification/references/source/benchmark-checklist/LICENSE",
+      "packagePath": "skills/application-verification/references/r/001.license"
+    },
+    {
+      "sourcePath": "skills/benchmark-checklist/SKILL.md",
+      "previousPackagePath": "skills/application-verification/references/source/benchmark-checklist/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/002.md"
+    },
+    {
+      "sourcePath": "skills/benchmark-checklist/references/local-execution-contract.md",
+      "previousPackagePath": "skills/application-verification/references/source/benchmark-checklist/references/local-execution-contract.md",
+      "packagePath": "skills/application-verification/references/r/003.md"
+    },
+    {
+      "sourcePath": "skills/benchmark-checklist/references/upstream/ORIGINAL-SKILL.md",
+      "previousPackagePath": "skills/application-verification/references/source/benchmark-checklist/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/004.md"
+    },
+    {
+      "sourcePath": "skills/principle-explain-the-number/LICENSE",
+      "previousPackagePath": "skills/application-verification/references/source/principle-explain-the-number/LICENSE",
+      "packagePath": "skills/application-verification/references/r/024.license"
+    },
+    {
+      "sourcePath": "skills/principle-explain-the-number/SKILL.md",
+      "previousPackagePath": "skills/application-verification/references/source/principle-explain-the-number/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/025.md"
+    },
+    {
+      "sourcePath": "skills/principle-explain-the-number/references/local-execution-contract.md",
+      "previousPackagePath": "skills/application-verification/references/source/principle-explain-the-number/references/local-execution-contract.md",
+      "packagePath": "skills/application-verification/references/r/026.md"
+    },
+    {
+      "sourcePath": "skills/principle-explain-the-number/references/upstream/ORIGINAL-SKILL.md",
+      "previousPackagePath": "skills/application-verification/references/source/principle-explain-the-number/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/027.md"
+    }
+  ]
+}

@@ -98,237 +98,372 @@
     {
       "sourcePath": "skills/create-verification-skill/LICENSE",
       "sourceSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "packagePath": "skills/application-verification/references/source/create-verification-skill/LICENSE",
+      "packagePath": "skills/application-verification/references/r/013.license",
       "packageSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "modifications": []
+      "modifications": [
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/create-verification-skill/LICENSE"
+      ]
     },
     {
       "sourcePath": "skills/create-verification-skill/SKILL.md",
       "sourceSha256": "ffbe3766a6ee4d0a773ad6110fa1ca3a4e1d3dd4805158e1d66157c7fbd0a76f",
-      "packagePath": "skills/application-verification/references/source/create-verification-skill/ORIGINAL-SKILL.md",
-      "packageSha256": "a26fc60a1aefd54ea538c145354c55370de4f5740632dec3905e8b3375839dd4",
+      "packagePath": "skills/application-verification/references/r/014.md",
+      "packageSha256": "fa66bf1f46c63f283166376696ee3dec38aa73de0cbdf44d37a8ff469cfc50e4",
       "modifications": [
         "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path",
         "sibling-loader-example-removed"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/create-verification-skill/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/create-verification-skill/references/local-execution-contract.md",
       "sourceSha256": "17636a18160299167ce3f26902c3112f04f9157cfce6e9377c232c47c8a6f3b0",
-      "packagePath": "skills/application-verification/references/source/create-verification-skill/references/local-execution-contract.md",
+      "packagePath": "skills/application-verification/references/r/015.md",
       "packageSha256": "5d1d437ed2db313bbe6b7e8374325fe7095e126e61dd03f2c3be58461b7258a7",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/create-verification-skill/references/local-execution-contract.md"
       ]
     },
     {
       "sourcePath": "skills/create-verification-skill/references/upstream/ORIGINAL-SKILL.md",
       "sourceSha256": "d353973547bf8ad8977eca645f4cd4feaed0d32f4b43d1448f906b0a76c4d694",
-      "packagePath": "skills/application-verification/references/source/create-verification-skill/references/upstream/ORIGINAL-SKILL.md",
-      "packageSha256": "c142cebf05abd84ea68b10f9fcae1fcd63b760e3153982a456328608185146eb",
+      "packagePath": "skills/application-verification/references/r/016.md",
+      "packageSha256": "6f3199fac4a0d13c60f1adeedf47c2010b0bbc2967f2b0d83c0ec9d5af57e4d7",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/create-verification-skill/references/upstream/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/create-verification-skill/references/upstream/references/feature-map-example/create-note.md",
       "sourceSha256": "644a44c74f35d38c2feb7cd05a0121fdebbb623e8dc376c185b565a581d1ccf7",
-      "packagePath": "skills/application-verification/references/source/create-verification-skill/references/upstream/references/feature-map-example/create-note.md",
+      "packagePath": "skills/application-verification/references/r/018.md",
       "packageSha256": "d2dbf60f57baf57a8167a8ad51463a3c2bf073fdd27a0a4b90852adbda676e2e",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/create-verification-skill/references/upstream/references/feature-map-example/create-note.md"
       ]
     },
     {
       "sourcePath": "skills/create-verification-skill/references/upstream/references/feature-map-example/README.md",
       "sourceSha256": "cb7bd782cf89968a4ba3d58a5151db837430db92d19a6f52a906973b77b516ba",
-      "packagePath": "skills/application-verification/references/source/create-verification-skill/references/upstream/references/feature-map-example/README.md",
-      "packageSha256": "18a8e4e9750b2cf4618bb69fdd0cfb33e732a90d1f1318467c37078f59070b51",
+      "packagePath": "skills/application-verification/references/r/017.md",
+      "packageSha256": "4b5d711c85a4ab44a3b2e161ad0ffc4a79421e1ce51480ac7926351c99af2b3d",
       "modifications": [
         "archive-modification-notice",
-        "relative-link-normalized"
+        "local-reference-paths-normalized",
+        "relative-link-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/create-verification-skill/references/upstream/references/feature-map-example/README.md"
       ]
     },
     {
       "sourcePath": "skills/create-verification-skill/references/upstream/references/feature-map-example/search.md",
       "sourceSha256": "6e87b9e7f2791a7776ba1bb83f371cd285c306c67f19d245cc4dd6ca3015c823",
-      "packagePath": "skills/application-verification/references/source/create-verification-skill/references/upstream/references/feature-map-example/search.md",
+      "packagePath": "skills/application-verification/references/r/019.md",
       "packageSha256": "4ddb75d8a2b72622192bde19b158034df0a700a53f314ac0e912cac3cb96caed",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/create-verification-skill/references/upstream/references/feature-map-example/search.md"
       ]
     },
     {
       "sourcePath": "skills/maintain-verification-skill/LICENSE",
       "sourceSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "packagePath": "skills/application-verification/references/source/maintain-verification-skill/LICENSE",
+      "packagePath": "skills/application-verification/references/r/020.license",
       "packageSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "modifications": []
+      "modifications": [
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/maintain-verification-skill/LICENSE"
+      ]
     },
     {
       "sourcePath": "skills/maintain-verification-skill/SKILL.md",
       "sourceSha256": "dde4fd8432a52501515fdc8cf6ec8bde3c5a02b71608737a7184570edb84de46",
-      "packagePath": "skills/application-verification/references/source/maintain-verification-skill/ORIGINAL-SKILL.md",
-      "packageSha256": "a22e816f2856d0a476d98106171e866f3c35b9579f17ddd7c198f0c4d6516ee6",
+      "packagePath": "skills/application-verification/references/r/021.md",
+      "packageSha256": "4d220e0ac5f8d7dce15c56b6a5e71d33f22ba300da114b0c70d0d293756cfefa",
       "modifications": [
         "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path",
         "sibling-loader-example-removed"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/maintain-verification-skill/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/maintain-verification-skill/references/local-execution-contract.md",
       "sourceSha256": "17636a18160299167ce3f26902c3112f04f9157cfce6e9377c232c47c8a6f3b0",
-      "packagePath": "skills/application-verification/references/source/maintain-verification-skill/references/local-execution-contract.md",
+      "packagePath": "skills/application-verification/references/r/022.md",
       "packageSha256": "5d1d437ed2db313bbe6b7e8374325fe7095e126e61dd03f2c3be58461b7258a7",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/maintain-verification-skill/references/local-execution-contract.md"
       ]
     },
     {
       "sourcePath": "skills/maintain-verification-skill/references/upstream/ORIGINAL-SKILL.md",
       "sourceSha256": "515c0eaa054b3f6be1b1fb06f2c2f173c80fddb58bbcac57576f89c479bc68e8",
-      "packagePath": "skills/application-verification/references/source/maintain-verification-skill/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/023.md",
       "packageSha256": "13d03ca995ed5eac5a97402e708dce840b1bb9439493dac17ed7ca0d7464d957",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/maintain-verification-skill/references/upstream/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/control-ui/LICENSE",
       "sourceSha256": "702f5f331b56aff0e33d8c7826df5202559f894145eb70355c6477b55b5bb8a0",
-      "packagePath": "skills/application-verification/references/source/control-ui/LICENSE",
+      "packagePath": "skills/application-verification/references/r/009.license",
       "packageSha256": "702f5f331b56aff0e33d8c7826df5202559f894145eb70355c6477b55b5bb8a0",
-      "modifications": []
+      "modifications": [
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/control-ui/LICENSE"
+      ]
     },
     {
       "sourcePath": "skills/control-ui/SKILL.md",
       "sourceSha256": "f7eff8b60bc70de711dee24960775d9316235a405567376b541d6d2bb4fcff9f",
-      "packagePath": "skills/application-verification/references/source/control-ui/ORIGINAL-SKILL.md",
-      "packageSha256": "d3406244f2f6e8de5278fc60bc28554da818f1259cc213d8556bb3b69c517e24",
+      "packagePath": "skills/application-verification/references/r/010.md",
+      "packageSha256": "62405a9b074b67c87350f637ec41eced153ce133cf1c25bd750b2501595b48c3",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/control-ui/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/control-ui/references/local-execution-contract.md",
       "sourceSha256": "17636a18160299167ce3f26902c3112f04f9157cfce6e9377c232c47c8a6f3b0",
-      "packagePath": "skills/application-verification/references/source/control-ui/references/local-execution-contract.md",
+      "packagePath": "skills/application-verification/references/r/011.md",
       "packageSha256": "5d1d437ed2db313bbe6b7e8374325fe7095e126e61dd03f2c3be58461b7258a7",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/control-ui/references/local-execution-contract.md"
       ]
     },
     {
       "sourcePath": "skills/control-ui/references/upstream/ORIGINAL-SKILL.md",
       "sourceSha256": "410cae25bdb1e5d2323b126abc5047b0213be7fdb0195710213fa8de8a751871",
-      "packagePath": "skills/application-verification/references/source/control-ui/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/012.md",
       "packageSha256": "03036522411140030ff91ddfe28415de07608bc04e9570244a8bb140ac3ce34d",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/control-ui/references/upstream/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/control-cli/LICENSE",
       "sourceSha256": "702f5f331b56aff0e33d8c7826df5202559f894145eb70355c6477b55b5bb8a0",
-      "packagePath": "skills/application-verification/references/source/control-cli/LICENSE",
+      "packagePath": "skills/application-verification/references/r/005.license",
       "packageSha256": "702f5f331b56aff0e33d8c7826df5202559f894145eb70355c6477b55b5bb8a0",
-      "modifications": []
+      "modifications": [
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/control-cli/LICENSE"
+      ]
     },
     {
       "sourcePath": "skills/control-cli/SKILL.md",
       "sourceSha256": "904413f927fe3615540d4f830ba871610a9e5333f9a5cd0551bd6f5eb760f47b",
-      "packagePath": "skills/application-verification/references/source/control-cli/ORIGINAL-SKILL.md",
-      "packageSha256": "1fbf7fb5b61f26f2d8773424eee444a5cef63a5dd323353eb240093b77808d1b",
+      "packagePath": "skills/application-verification/references/r/006.md",
+      "packageSha256": "454435ba6722342aced06457ecbe8f01a72e8df9bc1b13c6ffc687c9be13eabc",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/control-cli/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/control-cli/references/local-execution-contract.md",
       "sourceSha256": "17636a18160299167ce3f26902c3112f04f9157cfce6e9377c232c47c8a6f3b0",
-      "packagePath": "skills/application-verification/references/source/control-cli/references/local-execution-contract.md",
+      "packagePath": "skills/application-verification/references/r/007.md",
       "packageSha256": "5d1d437ed2db313bbe6b7e8374325fe7095e126e61dd03f2c3be58461b7258a7",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/control-cli/references/local-execution-contract.md"
       ]
     },
     {
       "sourcePath": "skills/control-cli/references/upstream/ORIGINAL-SKILL.md",
       "sourceSha256": "13ac93e595bbda2000849bdb815d5f2ca03f7c2ca63788c8335f9212b9b422a2",
-      "packagePath": "skills/application-verification/references/source/control-cli/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/008.md",
       "packageSha256": "2e0238a97bc15c6f9c43a025b4b13fe8592fcb91e80e07fba8d90785e1f27bc5",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/control-cli/references/upstream/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/benchmark-checklist/LICENSE",
       "sourceSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "packagePath": "skills/application-verification/references/source/benchmark-checklist/LICENSE",
+      "packagePath": "skills/application-verification/references/r/001.license",
       "packageSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "modifications": []
+      "modifications": [
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/benchmark-checklist/LICENSE"
+      ]
     },
     {
       "sourcePath": "skills/benchmark-checklist/SKILL.md",
       "sourceSha256": "2ddb1e82b396331fb202595a4ed5d8d9a3e0c69869c3a4289fc4aeb428e07ede",
-      "packagePath": "skills/application-verification/references/source/benchmark-checklist/ORIGINAL-SKILL.md",
-      "packageSha256": "4f05b1cc24f31123053f7d279c69dd7c0190bc710f523ffaf5973caa9f621047",
+      "packagePath": "skills/application-verification/references/r/002.md",
+      "packageSha256": "9081acb375ffccfc95f8825a891688437525a8ba09fddb62956779cb912b8077",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/benchmark-checklist/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/benchmark-checklist/references/local-execution-contract.md",
       "sourceSha256": "17636a18160299167ce3f26902c3112f04f9157cfce6e9377c232c47c8a6f3b0",
-      "packagePath": "skills/application-verification/references/source/benchmark-checklist/references/local-execution-contract.md",
+      "packagePath": "skills/application-verification/references/r/003.md",
       "packageSha256": "5d1d437ed2db313bbe6b7e8374325fe7095e126e61dd03f2c3be58461b7258a7",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/benchmark-checklist/references/local-execution-contract.md"
       ]
     },
     {
       "sourcePath": "skills/benchmark-checklist/references/upstream/ORIGINAL-SKILL.md",
       "sourceSha256": "ba109e96c8f6c1c391baccf19e5d11e14370df7b3f2605e1572cd565a6c0fca0",
-      "packagePath": "skills/application-verification/references/source/benchmark-checklist/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/004.md",
       "packageSha256": "0b544f158fe799c8c27999f4ab5acc9aa670006b4f9d728f5cbe8ab0c19a5da5",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/benchmark-checklist/references/upstream/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/principle-explain-the-number/LICENSE",
       "sourceSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "packagePath": "skills/application-verification/references/source/principle-explain-the-number/LICENSE",
+      "packagePath": "skills/application-verification/references/r/024.license",
       "packageSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "modifications": []
+      "modifications": [
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/principle-explain-the-number/LICENSE"
+      ]
     },
     {
       "sourcePath": "skills/principle-explain-the-number/SKILL.md",
       "sourceSha256": "c44bf9d93e929f63b09f33d90879a4ef349e7f62a479ab56a667fb18948fb2c5",
-      "packagePath": "skills/application-verification/references/source/principle-explain-the-number/ORIGINAL-SKILL.md",
-      "packageSha256": "da1cbb99b180b496bc01c8b89a228787034c4b340e82b6135e9d5e701dc44eeb",
+      "packagePath": "skills/application-verification/references/r/025.md",
+      "packageSha256": "c17d9b091b49aab7098f16e4379813ab752e1da4e942422ec11b30ee395e9995",
       "modifications": [
         "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path",
         "sibling-loader-example-removed"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/principle-explain-the-number/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/principle-explain-the-number/references/local-execution-contract.md",
       "sourceSha256": "17636a18160299167ce3f26902c3112f04f9157cfce6e9377c232c47c8a6f3b0",
-      "packagePath": "skills/application-verification/references/source/principle-explain-the-number/references/local-execution-contract.md",
+      "packagePath": "skills/application-verification/references/r/026.md",
       "packageSha256": "5d1d437ed2db313bbe6b7e8374325fe7095e126e61dd03f2c3be58461b7258a7",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/principle-explain-the-number/references/local-execution-contract.md"
       ]
     },
     {
       "sourcePath": "skills/principle-explain-the-number/references/upstream/ORIGINAL-SKILL.md",
       "sourceSha256": "cd5a25f9e7cf023627ccb470dc5faa97542f29b4319496a32b839a8e1e988047",
-      "packagePath": "skills/application-verification/references/source/principle-explain-the-number/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/application-verification/references/r/027.md",
       "packageSha256": "d28bd09738314810853c982ab21c2e2b8a72f347103a37a33993cbc0cc25f947",
       "modifications": [
         "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path",
         "unavailable-link-unlinked"
+      ],
+      "previousPackagePaths": [
+        "skills/application-verification/references/source/principle-explain-the-number/references/upstream/ORIGINAL-SKILL.md"
       ]
     }
   ],
@@ -345,5 +480,11 @@
     }
   ],
   "nativeHostBehavior": "unverified",
-  "nativeHelpers": "archived source only; not enabled"
+  "nativeHelpers": "archived source only; not enabled",
+  "pathPortability": {
+    "layout": "flat-reference-ids",
+    "relativeFilePathLimit": 85,
+    "reason": "Windows host Git staging prefix leaves limited path budget",
+    "index": "docs/resource-paths.json"
+  }
 }
